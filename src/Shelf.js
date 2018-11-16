@@ -1,6 +1,6 @@
 import React, {Component} from 'react'
 import Book from './Book'
-import sortBy from 'sort-by'
+
 
 
 class Shelf extends Component {
