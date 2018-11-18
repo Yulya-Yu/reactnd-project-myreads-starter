@@ -12,7 +12,7 @@
   "devDependencies": {
     "react-scripts": "1.1.4"
   },
-  "homepage": "https://github.com/Yulya-Yu/reactnd-project-myreads-starter",
+  "homepage": "https://yulya-yu.github.io/reactnd-project-myreads-starter",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
