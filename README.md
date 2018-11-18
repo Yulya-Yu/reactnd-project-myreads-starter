@@ -1,4 +1,6 @@
 A bookshelf app that allows user to select and categorize books as you have read, are currently reading, or want to read. 
+## Live Demo:
+https://my-reads-app-react.herokuapp.com/
 
 ## How to Start Project
 1) clone or download this repo
