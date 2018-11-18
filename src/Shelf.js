@@ -1,5 +1,7 @@
 import React, {Component} from 'react'
 import Book from './Book'
+import sortBy from 'sort-by'
+import PropTypes from 'prop-types'
 
 
 
